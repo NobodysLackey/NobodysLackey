@@ -41,6 +41,6 @@
       <a href="#"><img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white" /> </a>
       <a href="#"><img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code" /> </a>
       <a href="#"><img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" /> </a>
-      <a href="#"><img src="https://img.shields.io/badge/-Zoom-black?style=flat-square&logo=zoom" /> </a>
+      <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" /> </a>
     </div>
   </center>
