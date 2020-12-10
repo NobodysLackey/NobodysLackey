@@ -15,12 +15,12 @@
       <img src="https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=Apple&logoColor=white" /> 
       <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" /> 
   </div>
-  <br><br>
+  <br>
   <div>
       <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> </a>
       <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> </a>
-      <a href="#"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" /> </a>
-      <a href="#"><img src="https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react" /> </a>
+      <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> </a>
+      <a href="#"><img src="https://img.shields.io/badge/-ReactJS-white?style=flat-square&logo=react" /> </a>
       <a href="#"><img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white" /> </a>
       <a href="#"><img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery" /> </a>
       <a href="#"><img src="https://img.shields.io/badge/-Python3-black?style=flat-square&logo=Python" /> </a>
