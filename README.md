@@ -1,4 +1,4 @@
-<center>
+<div align="center">
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mlackey9601&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=react" />  </a>
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlackey9601&layout=compact&theme=react" /></a> 
   <br><br>
@@ -14,7 +14,7 @@
       <a href="#"><img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />  </a>
   </div>
   <br>
-  <div align="center">
+  <div>
       <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />  </a>
@@ -40,4 +40,4 @@
       <a href="#"><img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />  </a>
     </div>
-  </center>
+  </div>
