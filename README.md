@@ -9,6 +9,7 @@
   <div>
     <a href="https://www.linkedin.com/in/michaelglackey/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" /> </a>
     <a href="https://www.github.com/users/follow?target=mlackey9601/"><img src="https://img.shields.io/github/followers/mlackey9601?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" /> </a>
+    <a href="mailto: michael.g.lackey@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" /> </a>
   </div>
   <br>
   <div>
@@ -21,6 +22,7 @@
       <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> </a>
       <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> </a>
       <a href="#"><img src="https://img.shields.io/badge/-ReactJS-white?style=flat-square&logo=react" /> </a>
+      <a href="#"><img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux" /> </a>
       <a href="#"><img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white" /> </a>
       <a href="#"><img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery" /> </a>
       <a href="#"><img src="https://img.shields.io/badge/-Python3-black?style=flat-square&logo=Python" /> </a>
