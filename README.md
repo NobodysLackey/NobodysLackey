@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/michaelglackey/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" /> </a>
     <a href="https://www.github.com/users/follow?target=mlackey9601/"><img src="https://img.shields.io/github/followers/mlackey9601?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" /> </a>
   </div>
-  <br>
+  <br><br>
   <div>
       <img src="https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=Apple&logoColor=white" /> 
       <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" /> 
