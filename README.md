@@ -5,7 +5,7 @@
   <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlackey9601&layout=compact&theme=react" />
   </a> 
-  <br>
+  <br><br>
   <div>
     <a href="https://www.linkedin.com/in/michaelglackey/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" /> </a>
     <a href="https://www.github.com/users/follow?target=mlackey9601/"><img src="https://img.shields.io/github/followers/mlackey9601?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" /> </a>
