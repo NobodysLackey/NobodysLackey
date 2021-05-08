@@ -3,7 +3,7 @@
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlackey9601&layout=compact&theme=ayu-mirage&hide=python,ejs" /></a> 
   <hr>
   <div>
-    <a href="https://www.michaellackey.com/"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=awesome-lists&logoColor=white" />  </a>
+    <a href="https://www.michaellackey.com/"><img src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=awesome-lists&logoColor=white" />  </a>
     <a href="https://www.linkedin.com/in/michaelglackey/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
     <a href="https://github.com/mlackey9601"><img src="https://img.shields.io/github/followers/mlackey9601?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a>
     <a href="mailto: michael.g.lackey@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />  </a>
