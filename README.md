@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mlackey9601&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=react" />  </a>
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlackey9601&layout=compact&theme=react&hide=python,ejs" /></a> 
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mlackey9601&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=ayu-mirage" />  </a>
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlackey9601&layout=compact&theme=ayu-mirage&hide=python,ejs" /></a> 
   <hr>
   <div>
     <a href="https://www.michaellackey.com/"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=awesome-lists&logoColor=white" />  </a>
