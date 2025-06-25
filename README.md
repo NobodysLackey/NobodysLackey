@@ -1,6 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NobodysLackey/NobodysLackey/main/assets/banner.png" alt="Michael Lackey Banner" style="width:100%;" />
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/NobodysLackey/NobodysLackey/main/assets/banner-dark.png" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://raw.githubusercontent.com/NobodysLackey/NobodysLackey/main/assets/banner-light.png" media="(prefers-color-scheme: light)" />
+    <img src="https://raw.githubusercontent.com/NobodysLackey/NobodysLackey/main/assets/banner-dark.png" alt="Michael Lackey Banner" style="width:100%;" />
+  </picture>
 </p>
 
 <h1 align="center">Michael Lackey</h1>
@@ -8,7 +12,7 @@
   <i>Software Engineer • Instructor • Automation Tinkerer</i>
 </p>
 <p align="center">
-  <code>React</code> <code>Node</code> <code>MongoDB</code> <code>PostgreSQL</code> <code>Vite</code> <code>Zsh</code>
+  <code>React/Vue</code> <code>Node/Express</code> <code>MongoDB/Mongoose</code> <code>PostgreSQL/Sequelize</code>
 </p>
 
 ---
@@ -25,8 +29,8 @@ When I’m not teaching, I’m usually automating something, painting tabletop m
 
 | Languages        | Frameworks & Libraries       | Tools & Platforms              |
 |------------------|-------------------------------|--------------------------------|
-| JavaScript, Python, HTML, CSS | React, Express, Flask, Django | Git, Vite, VS Code, Postman |
-| MongoDB, PostgreSQL           | Redux, EJS, Tailwind, Bootstrap | Zsh, Heroku, Fly.io, GitHub |
+| JavaScript, Python, HTML, CSS | React, Vue, Express, Flask, Django | Git, Vite, Insomnia/Postman |
+| MongoDB, PostgreSQL           | Redux, EJS, Tailwind, Bootstrap | Surge, Render, Fly.io |
 
 ---
 
@@ -35,12 +39,18 @@ When I’m not teaching, I’m usually automating something, painting tabletop m
 - 🍳 **[Mongoose Recipes](https://github.com/NobodysLackey/mongoose-recipes)**  
   A whimsical full-stack teaching tool for learning Mongoose CRUD with full explanations of every step and and index for easy reference.
   
+- 🚛 **[The Yard Food Truck](https://github.com/NobodysLackey/the-yard)**  
+  A website created for a client as a home page for The Yard Food Truck - complete with hours, menu, and contact info.
+
+- 🏛️ **[Alexandria](https://github.com/NobodysLackey/alexandria)**  
+  A centralized API for students. It delivers stable, structured, and curated data for projects, labs, and lessons — from Stoic quotes to movie searches — all from one reliable source.
+
+- 🚀 **[Deploy It!](https://github.com/NobodysLackey/deploy-it)**  
+  A one stop shop website with each deployment walkthrough that I've made.
+
 - ⚒️ **[Vite Forge](https://github.com/NobodysLackey/vite-forge)**  
   Full CLI-based Vite + React project bootstrapper. Sets up routing, Axios, env handling, deploy scripts, and custom JSX readout.
-
-- 🧪 **[Daily JS Challenges](https://github.com/SEB-6-Bahrain/daily_js_challenges)**  
-  JavaScript logic practice repo used in my classes. Great for new devs to sharpen fundamentals.
-
+  
 ---
 
 ### 💻 GitHub Activity
