@@ -16,15 +16,19 @@
 
 ---
 
-### 🧠 About Me
+<div align="center">
+  <h1>About Me</h1>
 
-I'm a full-stack engineer and instructor based in Bahrain 🇧🇭, teaching modern web development with a practical, no-fluff approach. My focus is helping new developers build real-world confidence through hands-on projects, better tooling, and good habits.
+  <p>I'm a full-stack engineer and instructor based in Bahrain 🇧🇭, teaching modern web development with a practical, no-fluff approach. My focus is helping new developers build real-world confidence through hands-on projects, better tooling, and good habits.</p>
 
-When I’m not teaching, I’m usually automating something, painting tabletop minis, or building freelance projects for clients.
+  <p>When I’m not teaching, I’m usually automating something, painting tabletop minis, or building freelance projects for clients.</p>
+</div>
 
 ---
 
-### ⚙️ Toolbelt
+<div align="center">
+<h1>Toolbelt</h1>
+</div>
 
 | Languages        | Frameworks & Libraries       | Tools & Platforms              |
 |------------------|-------------------------------|--------------------------------|
@@ -33,7 +37,9 @@ When I’m not teaching, I’m usually automating something, painting tabletop m
 
 ---
 
-### 🔥 Featured Projects
+<div align="center">
+<h1>Featured Projects</h1>
+</div>
 
 - 🍳 **[Mongoose Recipes](https://github.com/NobodysLackey/mongoose-recipes)**  
   A whimsical full-stack teaching tool for learning Mongoose CRUD with full explanations of every step and and index for easy reference.
@@ -52,18 +58,20 @@ When I’m not teaching, I’m usually automating something, painting tabletop m
 
 ---
 
-### 💻 GitHub Activity
+<div align="center">
+  <h1>GitHub Activity</h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NobodysLackey&hide=issues&show_icons=true&theme=ayu-mirage&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobodysLackey&layout=compact&theme=ayu-mirage&hide=python,ejs" width="48%" />
-</p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=NobodysLackey&hide=issues&show_icons=true&theme=ayu-mirage&count_private=true&include_all_commits=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobodysLackey&layout=compact&theme=ayu-mirage&hide=python,ejs" width="48%" />
+  </p>
+</div>
 
 ---
 
-### 📡 Let's Connect
-
-You can find me here:
+<div align="center">
+<h1>Connect With Me</h1>
+</div>
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/michaelglackey/)
 - 🌐 [michaellackey.com](https://www.michaellackey.com/)
