@@ -1,4 +1,12 @@
 <div align="center">
+
+### 👋 Hey, I'm Michael
+
+I'm a full-stack software engineer and instructor with a passion for building clean, functional apps and helping others grow as developers. I’ve taught web development across the globe, currently based in Bahrain, and I’m most at home working in JavaScript, React, Node, and MongoDB.
+
+</div>
+
+<div align="center">
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NobodysLackey&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=ayu-mirage" />  </a><br>
     <hr>
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobodysLackey&layout=compact&theme=ayu-mirage&hide=python,ejs" /></a> 
