@@ -28,12 +28,13 @@
 
 <div align="center">
   <h3>Toolbelt</h3>
-</div>
 
-| Languages        | Frameworks & Libraries       | Tools & Platforms              |
-|------------------|-------------------------------|--------------------------------|
+| Languages | Frameworks & Libraries | Tools & Platforms |
+| :---: | :---: | :---: |
 | JavaScript, Python, HTML, CSS | React, Vue, Express, Flask, Django | Git, Vite, Insomnia/Postman |
 | MongoDB, PostgreSQL           | Redux, EJS, Tailwind, Bootstrap | Surge, Render, Fly.io |
+
+</div>
 
 ---
 
@@ -71,8 +72,8 @@
 
 <div align="center">
   <h3>Connect With Me</h3>
-</div>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/michaelglackey/)
-- 🌐 [michaellackey.com](https://www.michaellackey.com/)
-- 📬 [Email](mailto:michael.g.lackey@gmail.com)
+| [LinkedIn](https://www.linkedin.com/in/michaelglackey/) | [Website](https://www.michaellackey.com/) | [Email](mailto:michael.g.lackey@gmail.com) |
+|:--:|:--:|:--:|
+
+</div>
