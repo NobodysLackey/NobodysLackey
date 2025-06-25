@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <i>Software Engineer • Instructor • Automation Tinkerer</i>
+  <i>Full Stack Web Developer • Educator • Automation Tinkerer</i>
 </p>
 <p align="center">
   <code>React/Vue</code> <code>Node/Express</code> <code>MongoDB/Mongoose</code> <code>PostgreSQL/Sequelize</code>
@@ -17,7 +17,7 @@
 ---
 
 <div align="center">
-  <h1>About Me</h1>
+  <h3>About Me</h3>
 
   <p>I'm a full-stack engineer and instructor based in Bahrain 🇧🇭, teaching modern web development with a practical, no-fluff approach. My focus is helping new developers build real-world confidence through hands-on projects, better tooling, and good habits.</p>
 
@@ -27,7 +27,7 @@
 ---
 
 <div align="center">
-<h1>Toolbelt</h1>
+  <h3>Toolbelt</h3>
 </div>
 
 | Languages        | Frameworks & Libraries       | Tools & Platforms              |
@@ -38,7 +38,7 @@
 ---
 
 <div align="center">
-<h1>Featured Projects</h1>
+  <h3>Featured Projects</h3>
 </div>
 
 - 🍳 **[Mongoose Recipes](https://github.com/NobodysLackey/mongoose-recipes)**  
@@ -59,7 +59,7 @@
 ---
 
 <div align="center">
-  <h1>GitHub Activity</h1>
+  <h3>GitHub Activity</h3>
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=NobodysLackey&hide=issues&show_icons=true&theme=ayu-mirage&count_private=true&include_all_commits=true" width="48%" />
@@ -70,7 +70,7 @@
 ---
 
 <div align="center">
-<h1>Connect With Me</h1>
+  <h3>Connect With Me</h3>
 </div>
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/michaelglackey/)
