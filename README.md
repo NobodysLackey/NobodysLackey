@@ -7,7 +7,6 @@
   </picture>
 </p>
 
-<h1 align="center">Michael Lackey</h1>
 <p align="center">
   <i>Software Engineer • Instructor • Automation Tinkerer</i>
 </p>
@@ -50,7 +49,7 @@ When I’m not teaching, I’m usually automating something, painting tabletop m
 
 - ⚒️ **[Vite Forge](https://github.com/NobodysLackey/vite-forge)**  
   Full CLI-based Vite + React project bootstrapper. Sets up routing, Axios, env handling, deploy scripts, and custom JSX readout.
-  
+
 ---
 
 ### 💻 GitHub Activity
