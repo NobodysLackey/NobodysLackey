@@ -19,7 +19,7 @@
 <div align="center">
   <h3>About Me</h3>
 
-  <p>I'm a full-stack engineer and instructor based in Bahrain 🇧🇭, teaching modern web development with a practical, no-fluff approach. My focus is helping new developers build real-world confidence through hands-on projects, better tooling, and good habits.</p>
+  <p>I'm a full-stack software engineer and instructor based in Bahrain 🇧🇭, teaching modern web development with a practical, no-fluff approach. My focus is helping new developers build real-world confidence through hands-on projects, better tooling, and good habits.</p>
 
   <p>When I’m not teaching, I’m usually automating something, painting tabletop minis, or building freelance projects for clients.</p>
 </div>
